@@ -25,5 +25,5 @@ This section focuses on traditional ML, model building, and experimentation.
    - Visualize segments & insights  
 
 ## 🎯 Purpose
-Shows you can build complete ML workflows that connect to real product use-cases.
+Demonstrates my capacity to build complete ML workflows that connect to real product use-cases.
 
