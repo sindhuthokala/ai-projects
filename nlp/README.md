@@ -1,6 +1,6 @@
 # 03 — Natural Language Processing & LLMs
 
-This section highlights your ability to work with language data — aligning with modern AI roles.
+This section highlights my ability to work with language data — aligning with modern AI roles.
 
 ## 📘 Topics Covered
 - Text preprocessing (tokenization, cleaning)  
