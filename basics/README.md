@@ -24,5 +24,5 @@ This section contains foundational projects that demonstrate core skills used in
    - Vector operations, dot product, cosine similarity
 
 ## 🎯 Purpose
-These projects show your foundational strength — critical for AI developer roles.
+These projects show my foundational strength, as an AI developer.
 
